@@ -5,6 +5,12 @@
 
 Strategy is very good pattern to use in projects MVC, for remove `if` of your code and encapsule your rules in a context.
 
-**STRATEGY**
+example to test : `node app/examples/strategy/index.js`
 
-Strategy is very good pattern to use in projects MVC, for remove `if` of your code and encapsule your rules in a context.
+**FACTORY**
+
+Also use how strategy, this pattern reduce `if` of your code and encapsule your rules in class.
+Remove your extensions and use implementations of your code.
+
+example to test : `node app/examples/factory/index.js`
+
